@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+   color:white;
+}
+main{
+    background-color:orange;
+    border: black solid 1px;
+    height: 300px;
+    width: 500px; 
+}
+span{
+    font-size: 30px;
+}
+button{
+   padding: 10px;
+    border: white 1px solid;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: white;
+    color:orange;
+   border-color: white;
+}
