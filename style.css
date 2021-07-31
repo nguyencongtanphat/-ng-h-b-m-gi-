@@ -4,7 +4,7 @@ body{
    color:white;
 }
 main{
-    background-color:orange;
+    background-image: linear-gradient(to top, #f43b47 0%, #453a94 100%);
     border: black solid 1px;
     height: 300px;
     width: 500px; 
@@ -14,8 +14,8 @@ span{
 }
 button{
    padding: 10px;
-    border: white 1px solid;
-    background-color: orange;
+    border: rgb(37, 33, 33) 1px solid;
+    background-color:#453a94;
     color: white;
     font-weight: bold;
     font-size: 20px;
@@ -23,6 +23,6 @@ button{
 }
 button:hover{
     background-color: white;
-    color:orange;
+    color:#453a94;
    border-color: white;
 }
